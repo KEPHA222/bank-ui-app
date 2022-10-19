@@ -72,7 +72,7 @@ export const feedback = [
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Co-Founder & Leader",
     img: people02,
   },
   {
@@ -80,7 +80,7 @@ export const feedback = [
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Chief Executive Officer  ",
     img: people03,
   },
 ];
